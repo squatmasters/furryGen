@@ -1,6 +1,6 @@
 import random
 
-raw_input("What is your name, my throbbing friend?")
+input("What is your name, my throbbing friend?")
 
 noun1 = [ 'star', 'keyboard', 'electricity', 'calculator', 'asian', 'hersheybar', 'youtube', 'sister', 'politician', 'smallchild' ]
 body1 = [ 'face', 'elbow', 'tooth', 'arm', 'navel', 'throat', 'knife', 'eye', 'regret', 'toenail', 'asian' ]
